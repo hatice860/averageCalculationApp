@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting![Ekran Alıntısı](https://user-images.githubusercontent.com/79165387/201403898-2971f990-024c-486d-9ec8-49910129ba58.PNG)
+This project is a starting!
+[Ekran Alıntısı](https://user-images.githubusercontent.com/79165387/201403898-2971f990-024c-486d-9ec8-49910129ba58.PNG)
 ![Ekran görüntüsü 2022-11-11 212012](https://user-images.githubusercontent.com/79165387/201404089-8dc7d028-1e1f-431f-8520-f7e520a950ee.png)
 ![Ekran görüntüsü 2022-11-11 211929](https://user-images.githubusercontent.com/79165387/201404127-a3c7ca7e-e46d-4212-a5dd-11844ca8c405.png)
 ![Ekran görüntüsü 2022-11-11 211838](https://user-images.githubusercontent.com/79165387/201404129-cffa31d2-124d-4fd6-93f6-c94147b34e71.png)
